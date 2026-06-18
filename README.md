@@ -34,4 +34,4 @@ Additionally, the stamp supports rotation by 90 degrees via the context menu.
 
 Также на штампе доступна возможность поворота на 90 градусов через контекстное меню.
 
-![ВИзуальное описание](FOR_README.png)
+![Визуальное описание](FOR_README.png)
